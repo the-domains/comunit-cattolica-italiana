@@ -1,16 +1,14 @@
 ---
 description: 'la PROPOSTA SECONDA EDIZIONE '
 author: []
-datePublished: '2016-08-17T23:15:48.307Z'
-dateModified: '2016-08-17T23:14:08.955Z'
+datePublished: '2016-08-17T23:16:04.441Z'
+dateModified: '2016-08-17T23:16:03.767Z'
 title: ''
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-17-la-proposta-seconda-edizione.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: la-proposta-seconda-edizione/index.html
 _context: 'http://schema.org'
 _type: Article
