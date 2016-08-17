@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[Sito ufficiale]]></title>
         <description><![CDATA[Sito ufficiale]]></description>
-        <link>https://thegrid.ai/comunit-cattolica-italiana/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 22:04:44 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/comunit-cattolica-italiana/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4070fac-f36c-440f-b700-526e8c404c4d.jpg">]]></description>
-            <link>https://thegrid.ai/comunit-cattolica-italiana/d481a607-495d-4414-954c-450334f79661/index.html</link>
-            <guid isPermaLink="false">d481a607-495d-4414-954c-450334f79661</guid>
-            <pubDate>Wed, 17 Aug 2016 22:04:29 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 17 Aug 2016 22:04:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/434039d8-c9e3-4b5b-960f-5ba2ba3a5029.jpg">]]></description>
-            <link>https://thegrid.ai/comunit-cattolica-italiana/5b4be7af-fae3-48c5-9f01-7870c3ca5eb9/index.html</link>
+            <link>undefined5b4be7af-fae3-48c5-9f01-7870c3ca5eb9/index.html</link>
             <guid isPermaLink="false">5b4be7af-fae3-48c5-9f01-7870c3ca5eb9</guid>
             <pubDate>Wed, 17 Aug 2016 22:04:25 GMT</pubDate>
         </item>
