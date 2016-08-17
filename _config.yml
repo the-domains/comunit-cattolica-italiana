@@ -21,5 +21,8 @@ navigation:
   - name: Foto
     id: a54a6cbd-a974-4e6d-91f0-3c107bb869c7
     type: content
+  - name: Consiglio Pastorale
+    id: edf051cd-b1c2-40d0-a76c-970da2fcb900
+    type: content
 title: Comunità Cattolica Italiana di Calw
 description: in fase di costruzione
