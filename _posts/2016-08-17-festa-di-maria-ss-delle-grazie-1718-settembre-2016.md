@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-17T22:04:57.548Z'
+datePublished: '2016-08-17T22:13:01.110Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-17T22:03:00.627Z'
+dateModified: '2016-08-17T22:13:00.307Z'
 title: Festa di Maria SS. delle Grazie 17/18 settembre 2016
 publisher: {}
 description: ''
 sourcePath: _posts/2016-08-17-festa-di-maria-ss-delle-grazie-1718-settembre-2016.md
+hasPage: true
 starred: true
-_type: Blurb
+url: festa-di-maria-ss-delle-grazie-1718-settembre-2016/index.html
+_type: Article
 
 ---
 # Festa di Maria SS. delle Grazie 17/18 settembre 2016
