@@ -12,7 +12,3 @@ color:
     - '#3176C2'
     - '#AB2236'
 name: Comunità Cattolica Italiana
-navigation:
-  - name: Facebook
-    url: 'https://www.facebook.com/CCIMariaSS.delleGraziediCalw/?ref=settings'
-    type: external
