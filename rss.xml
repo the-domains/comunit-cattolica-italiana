@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sito ufficiale]]></title>
-        <description><![CDATA[Sito ufficiale]]></description>
+        <title><![CDATA[Comunità Cattolica Italiana di Calw]]></title>
+        <description><![CDATA[Comunità Cattolica Italiana di Calw]]></description>
         <link>https://thegrid.ai/comunit-cattolica-italiana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 22:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 22:33:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/comunit-cattolica-italiana/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Festa di Maria SS. delle Grazie 17/18 settembre 2016]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/comunit-cattolica-italiana/8d6523a5-0a2c-4825-913f-a15b06acc652/index.html</link>
             <guid isPermaLink="false">8d6523a5-0a2c-4825-913f-a15b06acc652</guid>
             <pubDate>Wed, 17 Aug 2016 22:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c67b533d-7bc5-4aa1-b3a5-605d8f588505.jpg">]]></description>
-            <link>https://thegrid.ai/comunit-cattolica-italiana/edf051cd-b1c2-40d0-a76c-970da2fcb900/index.html</link>
-            <guid isPermaLink="false">edf051cd-b1c2-40d0-a76c-970da2fcb900</guid>
-            <pubDate>Wed, 17 Aug 2016 22:05:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
