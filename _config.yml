@@ -1,23 +1,22 @@
-layout_spectrum: 0
-typography_spectrum: 0.9404255
-description: in fase di costruzione
-name: Comunità Cattolica Italiana
 title: Comunità Cattolica Italiana di Calw
 collections:
   - index:
-      navigable: true
       path: /
       number: 15
       paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
+      navigable: true
     permalink:
       path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
 color:
-  brandStrength: 0.1101238166447729
   saturation: 0.9287380785681307
+  brandStrength: 0.1101238166447729
+  rhythmicContrast: 0.1106344803702086
   brandColors:
     - '#000000'
     - '#404040'
@@ -25,6 +24,7 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
   lightness: 0.6445353352464736
-  rhythmicContrast: 0.1106344803702086
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
+typography_spectrum: 0.9404255
+description: in fase di costruzione
+layout_spectrum: 1
+name: Comunità Cattolica Italiana
