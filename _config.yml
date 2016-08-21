@@ -13,7 +13,11 @@ color:
 layout_spectrum: 0.7276596
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
-name: Comunità Cattolica Italiana di Calw
+name: CCI
+navigation:
+  - name: CP
+    id: edf051cd-b1c2-40d0-a76c-970da2fcb900
+    type: content
 collections:
   - index:
       paginate: true
