@@ -1,16 +1,16 @@
-typography_spectrum: 0.9404255
+layout_spectrum: 0.2586387461051345
+typography_spectrum: 0.26644539553672075
 color:
-  brandStrength: 1
-  saturation: 0.4553191
+  brandStrength: 0.3989826354663819
+  saturation: 0.8368992407340556
   brandColors:
-    - '#F7F2F0'
-    - '#B1B431'
-    - '#32110D'
-    - '#90251A'
-    - '#C15D4D'
-  lightness: 1
-  rhythmicContrast: 0
-layout_spectrum: 0.7276596
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  lightness: 0.7305580857209861
+  rhythmicContrast: 0.4864090259652585
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
 name: CCI
