@@ -1,8 +1,4 @@
-layout_spectrum: 0.7276596
-description: in fase di costruzione
-name: Comunità Cattolica Italiana
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
+typography_spectrum: 0.9404255
 color:
   brandStrength: 1
   saturation: 0.4553191
@@ -14,7 +10,10 @@ color:
     - '#C15D4D'
   lightness: 1
   rhythmicContrast: 0
-typography_spectrum: 0.9404255
+layout_spectrum: 0.7276596
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
+name: Comunità Cattolica Italiana
 collections:
   - index:
       paginate: true
@@ -28,3 +27,4 @@ collections:
       path: /rss.xml
       number: 10
 title: Comunità Cattolica Italiana di Calw
+description: Maria SS. delle Grazie
