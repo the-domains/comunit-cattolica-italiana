@@ -1,4 +1,3 @@
-layout_spectrum: 0.2586387461051345
 typography_spectrum: 0.26644539553672075
 color:
   brandStrength: 0.3989826354663819
@@ -11,6 +10,7 @@ color:
     - '#183152'
   lightness: 0.7305580857209861
   rhythmicContrast: 0.4864090259652585
+layout_spectrum: 0.2586387461051345
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
 name: CCI
