@@ -1,6 +1,4 @@
-layout_spectrum: 0
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
+layout_spectrum: 0.3446808
 description: Maria SS. delle Grazie
 name: CCI
 title: Comunità Cattolica Italiana di Calw
@@ -22,6 +20,7 @@ navigation:
   - id: edf051cd-b1c2-40d0-a76c-970da2fcb900
     name: Consiglio Pastorale
     type: content
+typography_spectrum: 0.2664453955367208
 color:
   brandStrength: 1
   saturation: 0.2702128
@@ -33,4 +32,5 @@ color:
     - '#010200'
   lightness: 1
   rhythmicContrast: 0
-typography_spectrum: 0.2664453955367208
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
