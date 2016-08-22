@@ -11,6 +11,8 @@ color:
   lightness: 0.7305580857209861
   rhythmicContrast: 0.4864090259652585
 layout_spectrum: 0.2586387461051345
+analytics:
+  google: '82927530'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
 name: CCI
