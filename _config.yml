@@ -1,25 +1,11 @@
-typography_spectrum: 0.26644539553672075
-color:
-  brandStrength: 0.3989826354663819
-  saturation: 0.8368992407340556
-  brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-  lightness: 0.7305580857209861
-  rhythmicContrast: 0.4864090259652585
 layout_spectrum: 0.2586387461051345
-analytics:
-  google: '82927530'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
+description: Maria SS. delle Grazie
 name: CCI
-navigation:
-  - name: Consiglio Pastorale
-    id: edf051cd-b1c2-40d0-a76c-970da2fcb900
-    type: content
+title: Comunità Cattolica Italiana di Calw
+analytics:
+  google: '82927530'
 collections:
   - index:
       paginate: true
@@ -32,5 +18,19 @@ collections:
       format: rss
       path: /rss.xml
       number: 10
-title: Comunità Cattolica Italiana di Calw
-description: Maria SS. delle Grazie
+navigation:
+  - id: edf051cd-b1c2-40d0-a76c-970da2fcb900
+    name: Consiglio Pastorale
+    type: content
+color:
+  brandStrength: 1
+  lightness: 0.7305580857209861
+  saturation: 0.8368992407340556
+  rhythmicContrast: 0.4864090259652585
+  brandColors:
+    - '#FFFFFF'
+    - '#A0C600'
+    - '#1C425C'
+    - '#CC4B34'
+    - '#010200'
+typography_spectrum: 0.2664453955367208
