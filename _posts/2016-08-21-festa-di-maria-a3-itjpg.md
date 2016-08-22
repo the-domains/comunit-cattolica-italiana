@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-08-21T23:17:11.208Z'
+datePublished: '2016-08-21T23:18:44.940Z'
+sourcePath: _posts/2016-08-21-festa-di-maria-a3-itjpg.md
 isBasedOnUrl: >-
   https://www.dropbox.com/s/15btdgdosyf9osi/Festa%20di%20Maria%20A3%20IT.jpg?dl=0
-author: []
+author:
+  - {}
 via: {}
 metadata:
   datePublished: '2016-08-21T23:05:48.845Z'
@@ -26,7 +28,7 @@ metadata:
   description: >-
     Dropbox is a free service that lets you bring your photos, docs, and videos
     anywhere and share them easily. Never email yourself a file again!
-dateModified: '2016-08-21T23:16:31.519Z'
+dateModified: '2016-08-21T23:17:40.633Z'
 title: ''
 id: fd1b4c65-1941-4045-9551-7875a06a720e
 publisher:
@@ -35,7 +37,6 @@ publisher:
   favicon: 'https://cfl.dropboxstatic.com/static/images/favicon-vflk5FiAC.ico'
   domain: www.dropbox.com
 description: ''
-sourcePath: _posts/2016-08-21-festa-di-maria-a3-itjpg.md
 starred: false
 inFeed: true
 hasPage: false
