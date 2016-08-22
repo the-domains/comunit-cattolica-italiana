@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Comunità Cattolica Italiana di Calw]]></title>
         <description><![CDATA[Comunità Cattolica Italiana di Calw]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/comunit-cattolica-italiana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 23:17:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Aug 2016 23:18:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/comunit-cattolica-italiana/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Festa di Maria A3 IT.jpg]]></title>
             <description><![CDATA[<img src="https://photos-2.dropbox.com/t/2/AADZj4Hp16D_O-v-eT2alBjki-7ka5r6kuSLWDIJWzEAgA/12/98193443/jpeg/1024x1024/2/_/0/4/Festa%20di%20Maria%20A3%20IT.jpg/CKOg6S4gAigC/15btdgdosyf9osi/AABBJl_YpwLqcaRJ-Slq1wXWa/Festa%20di%20Maria%20A3%20IT.jpg">]]></description>
             <link>https://www.dropbox.com/s/15btdgdosyf9osi/Festa%20di%20Maria%20A3%20IT.jpg?dl=0</link>
             <guid isPermaLink="false">fd1b4c65-1941-4045-9551-7875a06a720e</guid>
-            <pubDate>Sun, 21 Aug 2016 23:17:11 GMT</pubDate>
+            <pubDate>Sun, 21 Aug 2016 23:18:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
