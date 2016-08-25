@@ -4,22 +4,24 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Manifesto '
-datePublished: '2016-08-25T16:31:52.328Z'
-dateModified: '2016-08-25T16:31:44.038Z'
+description: ''
+datePublished: '2016-08-25T16:36:33.622Z'
+dateModified: '2016-08-25T16:35:15.281Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
+sourcePath: _posts/2016-08-25-manifesto.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-25-manifesto.md
 url: manifesto/index.html
 _type: Article
 
 ---
-Manifesto ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/022578aa-94ce-4001-a5dd-1dcbfeb124c6.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae5495f7866fcb252d5499cf87df39fc/croprotate.jpg?cropheight=2048&cropwidth=1296&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F022578aa-94ce-4001-a5dd-1dcbfeb124c6.jpg&x=72&y=0)
