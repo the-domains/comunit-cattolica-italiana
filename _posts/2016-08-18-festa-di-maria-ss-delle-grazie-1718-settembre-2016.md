@@ -1,37 +1,31 @@
 ---
-datePublished: '2016-08-22T22:32:48.178Z'
-description: ''
-sourcePath: _posts/2016-08-18-festa-di-maria-ss-delle-grazie-1718-settembre-2016.md
-id: 61684abf-2dfc-474f-88b2-4c0e3b3f0ec5
-via: {}
-author: []
-dateModified: '2016-08-22T22:32:06.066Z'
-publisher: {}
-metadata:
-  id: 61684abf-2dfc-474f-88b2-4c0e3b3f0ec5
-  dateModified: '2016-08-21T23:05:14.037Z'
-  metadata:
-    id: 61684abf-2dfc-474f-88b2-4c0e3b3f0ec5
-    dateModified: '2016-08-21T23:04:47.340Z'
-    metadata:
-      description: 17.09.2016
-      datePublished: '2016-08-20T22:27:36.222Z'
-      sourcePath: _posts/2016-08-18-festa-di-maria-ss-delle-grazie-1718-settembre-2016.md
-      via: {}
-      author: []
-      dateModified: '2016-08-20T22:27:36.222Z'
-      publisher: {}
-      title: Festa di Maria SS. delle Grazie 17/18 settembre 2016
-title: Festa di Maria SS. delle Grazie 17/18 settembre 2016
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-08-25T21:19:52.772Z'
+dateModified: '2016-08-25T21:15:49.572Z'
+sourcePath: _posts/2016-08-18-festa-di-maria-ss-delle-grazie-1718-settembre-2016.md
+id: 61684abf-2dfc-474f-88b2-4c0e3b3f0ec5
+via: {}
+author:
+  - name: ''
+    url: ''
+title: Festa di Maria SS. delle Grazie 17/18 settembre 2016
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # Festa di Maria SS. delle Grazie 17/18 settembre 2016
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2107101f-a655-4fa3-8584-0d09812349b7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1fa1383-b3f6-4ea3-a529-0720f5974bcd.jpg)
 
 **17.09.2016**
