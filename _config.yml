@@ -1,7 +1,7 @@
 name: CCI
 favicon: null
-layout_spectrum: 0.3446808
-typography_spectrum: 0.2664453955367208
+layout_spectrum: 1
+typography_spectrum: 0.76575
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
 description: Maria SS. delle Grazie
@@ -41,8 +41,8 @@ color:
     - '#1C425C'
     - '#CC4B34'
     - '#010200'
-  brandStrength: 0.4914894
-  lightness: 0.3319149
-  saturation: 0.5255319
-  rhythmicContrast: 0.2744681
+  brandStrength: 0.5
+  lightness: 0.1875
+  saturation: 0.25
+  rhythmicContrast: 0
 purpose: []
