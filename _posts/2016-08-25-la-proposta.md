@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-25T22:21:38.579Z'
-dateModified: '2016-08-25T22:12:27.124Z'
+datePublished: '2016-08-25T22:41:04.448Z'
+dateModified: '2016-08-25T22:39:26.521Z'
 title: la Proposta
 author:
   - name: ''
@@ -14,9 +14,7 @@ author:
 via: {}
 sourcePath: _posts/2016-08-25-la-proposta.md
 authors: []
-publisher:
-  name: ''
-  url: ''
+publisher: {}
 starred: false
 url: la-proposta/index.html
 _type: Article
