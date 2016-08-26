@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-25T22:52:21.133Z'
-dateModified: '2016-08-25T22:51:56.659Z'
+datePublished: '2016-08-26T10:08:25.114Z'
+dateModified: '2016-08-26T10:06:08.249Z'
 title: la Proposta
 author:
   - name: ''
