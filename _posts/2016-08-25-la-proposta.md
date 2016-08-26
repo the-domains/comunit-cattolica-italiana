@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-26T10:08:25.114Z'
-dateModified: '2016-08-26T10:06:08.249Z'
+datePublished: '2016-08-26T13:43:26.979Z'
+dateModified: '2016-08-26T13:37:10.976Z'
 title: la Proposta
 author:
   - name: ''
@@ -21,7 +21,7 @@ publisher:
   favicon: null
 starred: false
 url: la-proposta/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34c6ef26-89d2-4b22-a0dc-67ccacf555cc.jpg)
