@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-25T22:39:51.293Z'
-dateModified: '2016-08-25T22:39:04.706Z'
-title: ''
+datePublished: '2016-08-25T22:41:49.829Z'
+dateModified: '2016-08-25T22:41:37.312Z'
+title: Manifesto
 author:
   - name: ''
     url: ''
