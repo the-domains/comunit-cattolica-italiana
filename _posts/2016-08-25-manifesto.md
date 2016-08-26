@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-25T22:03:40.542Z'
-dateModified: '2016-08-25T22:03:37.310Z'
+datePublished: '2016-08-25T22:21:15.702Z'
+dateModified: '2016-08-25T22:12:47.656Z'
 title: ''
 author:
   - name: ''
@@ -15,9 +15,9 @@ via: {}
 sourcePath: _posts/2016-08-25-manifesto.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 url: manifesto/index.html
