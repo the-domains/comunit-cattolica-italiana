@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-25T22:52:13.281Z'
-dateModified: '2016-08-25T22:52:12.389Z'
+datePublished: '2016-08-26T13:48:13.507Z'
+dateModified: '2016-08-26T13:48:13.173Z'
 title: Manifesto
 author:
   - name: ''
@@ -20,8 +21,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: manifesto/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae5495f7866fcb252d5499cf87df39fc/croprotate.jpg?cropheight=2048&cropwidth=1296&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F022578aa-94ce-4001-a5dd-1dcbfeb124c6.jpg&x=72&y=0)
