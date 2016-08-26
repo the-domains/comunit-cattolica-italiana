@@ -4,8 +4,15 @@
         <description><![CDATA[Comunità Cattolica Italiana di Calw]]></description>
         <link>https://thegrid.ai/comunit-cattolica-italiana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 22:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 22:50:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/comunit-cattolica-italiana/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[la Proposta]]></title>
+            <description><![CDATA[<article><h1>la Proposta</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34c6ef26-89d2-4b22-a0dc-67ccacf555cc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/comunit-cattolica-italiana/la-proposta/index.html</link>
+            <guid isPermaLink="false">a2fbb2f3-84cb-4e78-99d2-accf305fc45c</guid>
+            <pubDate>Thu, 25 Aug 2016 22:50:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Manifesto]]></title>
             <description><![CDATA[<article><h1>Manifesto</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae5495f7866fcb252d5499cf87df39fc/croprotate.jpg?cropheight=2048&cropwidth=1296&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F022578aa-94ce-4001-a5dd-1dcbfeb124c6.jpg&x=72&y=0"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/comunit-cattolica-italiana/87f1bee7-b33d-4d5d-9c73-94510212abe2/index.html</link>
             <guid isPermaLink="false">87f1bee7-b33d-4d5d-9c73-94510212abe2</guid>
             <pubDate>Thu, 25 Aug 2016 22:41:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[la Proposta]]></title>
-            <description><![CDATA[<article><h1>la Proposta</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34c6ef26-89d2-4b22-a0dc-67ccacf555cc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/comunit-cattolica-italiana/la-proposta/index.html</link>
-            <guid isPermaLink="false">a2fbb2f3-84cb-4e78-99d2-accf305fc45c</guid>
-            <pubDate>Thu, 25 Aug 2016 22:41:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
