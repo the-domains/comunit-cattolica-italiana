@@ -4,8 +4,15 @@
         <description><![CDATA[Comunità Cattolica Italiana di Calw]]></description>
         <link>https://thegrid.ai/comunit-cattolica-italiana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 22:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 22:42:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/comunit-cattolica-italiana/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Manifesto]]></title>
+            <description><![CDATA[<article><h1>Manifesto</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae5495f7866fcb252d5499cf87df39fc/croprotate.jpg?cropheight=2048&cropwidth=1296&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F022578aa-94ce-4001-a5dd-1dcbfeb124c6.jpg&x=72&y=0"></article>]]></description>
+            <link>https://thegrid.ai/comunit-cattolica-italiana/manifesto/index.html</link>
+            <guid isPermaLink="false">57c85c0e-f77a-470c-af54-a8212fb7ef74</guid>
+            <pubDate>Thu, 25 Aug 2016 22:41:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b32a4f0e-68f9-48e5-95c3-bf31265cc239.jpg" alt="" title="">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/comunit-cattolica-italiana/la-proposta/index.html</link>
             <guid isPermaLink="false">a2fbb2f3-84cb-4e78-99d2-accf305fc45c</guid>
             <pubDate>Thu, 25 Aug 2016 22:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manifesto]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae5495f7866fcb252d5499cf87df39fc/croprotate.jpg?cropheight=2048&cropwidth=1296&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F022578aa-94ce-4001-a5dd-1dcbfeb124c6.jpg&x=72&y=0" alt="" title="">]]></description>
-            <link>https://thegrid.ai/comunit-cattolica-italiana/manifesto/index.html</link>
-            <guid isPermaLink="false">57c85c0e-f77a-470c-af54-a8212fb7ef74</guid>
-            <pubDate>Thu, 25 Aug 2016 22:39:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
