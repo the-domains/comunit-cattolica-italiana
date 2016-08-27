@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-26T13:48:13.507Z'
-dateModified: '2016-08-26T13:48:13.173Z'
+datePublished: '2016-08-26T20:38:31.625Z'
+dateModified: '2016-08-26T18:23:42.980Z'
 title: Manifesto
 author:
   - name: ''
@@ -16,9 +16,9 @@ via: {}
 sourcePath: _posts/2016-08-25-manifesto.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 _type: Blurb
