@@ -27,11 +27,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: la Proposta
-    id: a2fbb2f3-84cb-4e78-99d2-accf305fc45c
-    type: content
   - name: Foto
     id: 87f1bee7-b33d-4d5d-9c73-94510212abe2
+    type: content
+  - name: la Proposta
+    id: a2fbb2f3-84cb-4e78-99d2-accf305fc45c
     type: content
 favicon: null
 collections:
