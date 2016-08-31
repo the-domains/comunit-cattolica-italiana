@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-26T21:08:43.493Z'
-dateModified: '2016-08-26T21:08:26.543Z'
+datePublished: '2016-08-29T10:02:25.114Z'
+dateModified: '2016-08-29T10:02:14.777Z'
 title: Manifesto
 author:
   - name: ''
