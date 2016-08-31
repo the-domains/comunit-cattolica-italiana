@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: la Proposta
+    id: a2fbb2f3-84cb-4e78-99d2-accf305fc45c
+    type: content
 favicon: null
 collections:
   - index:
