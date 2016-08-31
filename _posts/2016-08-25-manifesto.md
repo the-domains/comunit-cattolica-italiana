@@ -5,23 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-29T19:31:51.134Z'
-dateModified: '2016-08-29T19:31:50.631Z'
-title: Manifesto
+datePublished: '2016-08-29T20:17:59.054Z'
+dateModified: '2016-08-29T20:17:46.843Z'
+title: ''
 author:
   - name: ''
     url: ''
 via: {}
 sourcePath: _posts/2016-08-25-manifesto.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: manifesto/index.html
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae5495f7866fcb252d5499cf87df39fc/croprotate.jpg?cropheight=2048&cropwidth=1296&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F022578aa-94ce-4001-a5dd-1dcbfeb124c6.jpg&x=72&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff41976d-453e-42a6-a30a-0c615002585b.jpg)
