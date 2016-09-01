@@ -1,31 +1,9 @@
+name: CCI
+favicon: null
 layout_spectrum: 0.16080357250757515
-typography_spectrum: 0.657188689801842
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#A0C600'
-    - '#1C425C'
-    - '#CC4B34'
-    - '#010200'
-  brandStrength: 0.4375
-  lightness: 0.5
-  saturation: 0.625
-  rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: '82927530'
-  facebook: null
-  twitter: null
+typography_spectrum: 0.77332
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
-name: CCI
-cta:
-  domain: null
-  bucket: null
-  version: null
 navigation:
   - name: la Proposta
     id: a2fbb2f3-84cb-4e78-99d2-accf305fc45c
@@ -36,7 +14,6 @@ navigation:
   - name: Contatti
     id: cb1f7f98-39c2-4f1e-aadc-8e9768ee2331
     type: content
-favicon: null
 collections:
   - index:
       paginate: true
@@ -51,4 +28,27 @@ collections:
       number: 10
 title: Comunità Cattolica Italiana di Calw
 description: Maria SS. delle Grazie
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: '82927530'
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#A0C600'
+    - '#1C425C'
+    - '#CC4B34'
+    - '#010200'
+  brandStrength: 0.3125
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
