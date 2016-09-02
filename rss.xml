@@ -4,7 +4,7 @@
         <description><![CDATA[Comunità Cattolica Italiana di Calw]]></description>
         <link>https://thegrid.ai/comunit-cattolica-italiana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 21:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 21:44:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/comunit-cattolica-italiana/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Manifesto]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/comunit-cattolica-italiana/foto/index.html</link>
             <guid isPermaLink="false">87f1bee7-b33d-4d5d-9c73-94510212abe2</guid>
             <pubDate>Mon, 29 Aug 2016 22:03:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Consiglio Pastorale]]></title>
+            <description><![CDATA[<article><h1>Consiglio Pastorale</h1><p>Caterina Geraci, Lorenzo Cavaliere, Filippo Luminario, Don Denis Mpanga, Marco Cremonesi, Rina Di Stefano, Roberto Di Chiara, Rosario Prestito</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c67b533d-7bc5-4aa1-b3a5-605d8f588505.jpg"></article>]]></description>
+            <link>https://thegrid.ai/comunit-cattolica-italiana/consiglio-pastorale/index.html</link>
+            <guid isPermaLink="false">edf051cd-b1c2-40d0-a76c-970da2fcb900</guid>
+            <pubDate>Tue, 30 Aug 2016 21:44:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
