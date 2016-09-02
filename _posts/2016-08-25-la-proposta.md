@@ -4,9 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-30T21:44:06.082Z'
-dateModified: '2016-08-30T21:43:29.007Z'
+description: >-
+  https://www.dropbox.com/s/uzp7jk6oh0milg6/la%20Proposta%20APR-GIU%202016.pdf?dl=0
+datePublished: '2016-08-30T21:44:36.058Z'
+dateModified: '2016-08-30T21:44:11.318Z'
 title: la Proposta
 author:
   - name: ''
