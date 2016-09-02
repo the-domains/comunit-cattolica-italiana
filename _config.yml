@@ -1,7 +1,18 @@
+layout_spectrum: 0.586149635259062
+typography_spectrum: 0.4558064250741154
+color:
+  brandColors:
+    - '#A8C43D'
+    - '#BD533D'
+    - '#26425A'
+    - '#FFFFFF'
+    - '#755D3D'
+  brandStrength: 0.6970994668081403
+  lightness: 0.8310896102339029
+  saturation: 0.6580333791207522
+  rhythmicContrast: 0.32960176724009216
 name: CCI
 favicon: null
-layout_spectrum: 0.16080357250757515
-typography_spectrum: 0.77332
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
 navigation:
@@ -40,15 +51,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#a1c709'
-    - '#cd4b34'
-    - '#1c435c'
-    - '#ffffff'
-    - '#8e673d'
-  brandStrength: 1
-  lightness: 0.9375
-  saturation: 0
-  rhythmicContrast: 0.5
 purpose: []
