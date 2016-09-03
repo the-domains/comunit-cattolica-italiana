@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-30T17:54:27.724Z'
-dateModified: '2016-08-30T17:53:59.383Z'
-title: Manifesto
+datePublished: '2016-08-31T18:09:56.045Z'
+dateModified: '2016-08-31T18:09:22.107Z'
+title: Festa di Maria SS. delle Grazie
 author:
   - name: ''
     url: ''
