@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-30T17:27:19.253Z'
-dateModified: '2016-08-30T17:23:15.180Z'
+datePublished: '2016-08-31T20:31:07.677Z'
+dateModified: '2016-08-31T20:13:20.428Z'
 sourcePath: _posts/2016-08-18-festa-di-maria-ss-delle-grazie-1718-settembre-2016.md
 id: 61684abf-2dfc-474f-88b2-4c0e3b3f0ec5
 via: {}
@@ -17,9 +17,9 @@ author:
 title: Festa di Maria Santissima delle Grazie 17/18 settembre 2016
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: true
 _type: Blurb
