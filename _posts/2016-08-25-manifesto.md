@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-09-01T22:11:33.984Z'
-dateModified: '2016-09-01T22:11:17.560Z'
-title: Festa di Maria SS. delle Grazie
+datePublished: '2016-09-01T22:12:02.861Z'
+dateModified: '2016-09-01T22:11:58.307Z'
+title: Festa di Maria Santissima delle Grazie
 author:
   - name: ''
     url: ''
