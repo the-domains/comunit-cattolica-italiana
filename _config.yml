@@ -1,21 +1,21 @@
-typography_spectrum: 0.4558064250741154
+layout_spectrum: 0.44444599165581167
+typography_spectrum: 0.11879121558740735
 color:
   brandColors:
     - '#A8C43D'
     - '#BD533D'
+    - '#F7CD46'
     - '#26425A'
     - '#FFFFFF'
-    - '#755D3D'
-  brandStrength: 0.6970994668081403
-  lightness: 0.8310896102339029
-  saturation: 0.6580333791207522
-  rhythmicContrast: 0.32960176724009216
+  brandStrength: 0.685418285196647
+  lightness: 0.9741917417850345
+  saturation: 0.6923432843759656
+  rhythmicContrast: 0.10477602062746882
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/76a2ab38-0bbb-4d65-9df8-670c106c4fbc.png
   type: null
   appId: '287559941617394'
-layout_spectrum: 0.586149635259062
 analytics:
   google: '82927530'
   facebook: null
