@@ -11,7 +11,8 @@ color:
   saturation: 0.6580333791207522
   rhythmicContrast: 0.32960176724009216
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/76a2ab38-0bbb-4d65-9df8-670c106c4fbc.png
   type: null
   appId: '287559941617394'
 layout_spectrum: 0.586149635259062
@@ -36,7 +37,8 @@ navigation:
   - name: Contatti
     id: cb1f7f98-39c2-4f1e-aadc-8e9768ee2331
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a27fc35b-092c-43db-94e4-d8a3c7bf3451.png
 collections:
   - index:
       paginate: true
