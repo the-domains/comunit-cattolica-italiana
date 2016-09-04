@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-31T18:09:56.045Z'
-dateModified: '2016-08-31T18:09:22.107Z'
+datePublished: '2016-09-01T22:08:29.273Z'
+dateModified: '2016-09-01T22:08:23.797Z'
 title: Festa di Maria SS. delle Grazie
 author:
   - name: ''
@@ -15,9 +15,9 @@ via: {}
 sourcePath: _posts/2016-08-25-manifesto.md
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
 url: manifesto/index.html
