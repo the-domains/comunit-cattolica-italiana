@@ -42,9 +42,9 @@ collections:
       number: 10
 color:
   brandStrength: 0.685418285196647
-  lightness: 0.9234043
+  lightness: 0.8702128
   saturation: 0.6923433
-  rhythmicContrast: 0.2787234
+  rhythmicContrast: 0.4851064
   brandColors:
     - '#A8C43D'
     - '#BD533D'
