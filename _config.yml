@@ -14,7 +14,7 @@ cta:
   version: null
   bucket: null
   domain: null
-layout_spectrum: 1
+layout_spectrum: 0.793617
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a27fc35b-092c-43db-94e4-d8a3c7bf3451.png
 name: cci-calw.eu
@@ -42,15 +42,15 @@ collections:
       number: 10
 color:
   brandStrength: 0.685418285196647
-  saturation: 0.6923432843759656
+  lightness: 0.8319149
+  saturation: 0.6923433
+  rhythmicContrast: 0.3808511
   brandColors:
     - '#A8C43D'
     - '#BD533D'
     - '#F7CD46'
     - '#26425A'
     - '#FFFFFF'
-  lightness: 0.9741917417850345
-  rhythmicContrast: 0.1047760206274688
 typography_spectrum: 0.1187912155874074
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdaf57ae-c5f0-4514-a628-f939ad273fff.png
